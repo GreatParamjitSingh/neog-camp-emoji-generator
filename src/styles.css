@@ -23,9 +23,10 @@
 }
 
 .App__EmojiList__Value {
-  padding: 2rem;
+  padding: 1rem;
   cursor: pointer;
   border-radius: 5px;
   border: 1px solid red;
-  margin: 0px 2px;
+  margin: 2px 2px;
+  display: inline-block;
 }
