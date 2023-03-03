@@ -6,7 +6,7 @@ const EmojiDictionary = {
   "🤑": "Money-Mouth Face",
   "🔥": "Fire",
   "😈": "Smiling Face with Horns",
-  "🙋": "Person Raising Hand"
+  "🙋": "Person Raising Hand",
 };
 
 var EmojisWeKnowList = Object.keys(EmojiDictionary);
